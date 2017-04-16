@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://www.wordsandcode.co.uk
+baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Words & Code
+email: hello@wordsandcode.co.uk
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Alexandra Papageorgiou
   pic: 1
-  position: Lead Designer
+  position: Head of Content Strategy
   social:
     - title: twitter
       url: #
@@ -20,45 +20,30 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Eleni Lixourioti
   pic: 2
-  position: Lead Marketer
+  position: Head of Tech
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: github
+      url: https://github.com/Geekfish/
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
+      url: https://www.linkedin.com/in/eleni-lixourioti-07b88719/
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/geekfish_
+    - title: quote-left
+      url: https://thoughtstreams.io/Geekfish/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/WordsAndCode
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.org/WordsAndCode
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 7 Alton Road
+  - line: Bristol, BS7 9PS
 
 # Build settings
 markdown: kramdown
