@@ -2,27 +2,27 @@ url: https://www.wordsandcode.co.uk
 baseurl: ""
 
 # Site settings
-title: Words & Code
+title: Words + Code
 email: hello@wordsandcode.co.uk
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Alexandra Papageorgiou
+- name: 💡 Alex Papageorgiou 💡
   pic: 1
   position: Head of Content Strategy
+  bio: Alex comes from the world of content strategy, with additional experience in marketing, editorial, web design and UX.
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/alexandra-papageorgiou-07376741/
 
-- name: Eleni Lixourioti
+- name: 🤖  Eleni Lixourioti 🤖
   pic: 2
   position: Head of Tech
+  bio: Eleni has worked in numerous software projects as a web developer, carrying a passion for quality, good practices and proper understanding of the domain problems in hand.
   social:
     - title: github
       url: https://github.com/Geekfish/
@@ -38,7 +38,7 @@ social:
   - title: twitter
     url: http://twitter.com/WordsAndCode
   - title: github
-    url: http://github.org/WordsAndCode
+    url: http://github.com/WordsAndCode
 
 # Postal address (add as many lines as necessary)
 address:
